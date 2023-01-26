@@ -1,0 +1,15 @@
+A:\study\bigHM\obj\Debug\net6.0\bigHM.csproj.AssemblyReference.cache
+A:\study\bigHM\obj\Debug\net6.0\bigHM.GeneratedMSBuildEditorConfig.editorconfig
+A:\study\bigHM\obj\Debug\net6.0\bigHM.AssemblyInfoInputs.cache
+A:\study\bigHM\obj\Debug\net6.0\bigHM.AssemblyInfo.cs
+A:\study\bigHM\obj\Debug\net6.0\bigHM.csproj.CoreCompileInputs.cache
+A:\study\bigHM\bin\Debug\net6.0\bigHM.exe
+A:\study\bigHM\bin\Debug\net6.0\bigHM.deps.json
+A:\study\bigHM\bin\Debug\net6.0\bigHM.runtimeconfig.json
+A:\study\bigHM\bin\Debug\net6.0\bigHM.dll
+A:\study\bigHM\bin\Debug\net6.0\bigHM.pdb
+A:\study\bigHM\obj\Debug\net6.0\bigHM.dll
+A:\study\bigHM\obj\Debug\net6.0\refint\bigHM.dll
+A:\study\bigHM\obj\Debug\net6.0\bigHM.pdb
+A:\study\bigHM\obj\Debug\net6.0\bigHM.genruntimeconfig.cache
+A:\study\bigHM\obj\Debug\net6.0\ref\bigHM.dll
