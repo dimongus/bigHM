@@ -86,3 +86,5 @@ PrintArray(newArray);
 }
 ```
 4) Во время выполнения работы не забываем делать commit
+![](https://github.com/dimongus/bigHM/blob/main/pict/2.png)
+
