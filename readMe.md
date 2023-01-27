@@ -29,7 +29,8 @@
 string[] array = new string[] {};
 ```
 
-```string command = ReadInput("Введите команду: ");
+```
+string command = ReadInput("Введите команду: ");
 switch (command)
 {
     case "1":
@@ -46,16 +47,19 @@ switch (command)
         break;
 }
 ```
-```int lenghtArray = 0;
+```
+int lenghtArray = 0;
 for (int i = 0; i <= array.Length - 1; i++)
 {
     if (array[i].Length <= 3) lenghtArray++;
 }
 ```
-```string[] newArray = new string[lenghtArray];
+```
+string[] newArray = new string[lenghtArray];
 int count = 0;
 ```
-```for (int i = 0; i <= array.Length - 1; i++)
+```
+for (int i = 0; i <= array.Length - 1; i++)
 {
     if (array[i].Length <= 3)
     {
@@ -64,18 +68,21 @@ int count = 0;
     }
 }
 ```
-```PrintArray(array);
+```
+PrintArray(array);
 Console.Write("→ ");
 PrintArray(newArray);
 ```
 
-```string ReadInput(string msg)
+```
+string ReadInput(string msg)
 {
     Console.Write(msg);
     return Console.ReadLine();
 }
 ```
-```void PrintArray(string[] array)
+```
+void PrintArray(string[] array)
 {
     Console.Write("[ ");
     for (int i = 0; i < array.Length; i++)
@@ -88,3 +95,5 @@ PrintArray(newArray);
 4) Во время выполнения работы не забываем делать commit
 ![](https://github.com/dimongus/bigHM/blob/main/pict/2.png)
 
+5) Составим алгоритм:
+![](https://github.com/dimongus/bigHM/blob/main/pict/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
